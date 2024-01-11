@@ -21,6 +21,8 @@ function App() {
       <h1>Test 1</h1>
       <p>Day la react dung de test gitHub</p>
       <p>Day la test thu lan 2 cho gitHub</p>
+      <p>Day la test thu lan 3 cho gitHub</p>
+
     </div>
   );
 }
